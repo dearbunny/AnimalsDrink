@@ -13,6 +13,7 @@
 		9A8300E4264517960024DBF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A8300E2264517960024DBF3 /* Main.storyboard */; };
 		9A8300E6264517980024DBF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A8300E5264517980024DBF3 /* Assets.xcassets */; };
 		9A8300E9264517980024DBF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A8300E7264517980024DBF3 /* LaunchScreen.storyboard */; };
+		9A8300F2264518D10024DBF3 /* NaikaiFont-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A8300F1264518D10024DBF3 /* NaikaiFont-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9A8300E5264517980024DBF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A8300E8264517980024DBF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A8300EA264517980024DBF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A8300F1264518D10024DBF3 /* NaikaiFont-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NaikaiFont-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9A8300E5264517980024DBF3 /* Assets.xcassets */,
 				9A8300E7264517980024DBF3 /* LaunchScreen.storyboard */,
 				9A8300EA264517980024DBF3 /* Info.plist */,
+				9A8300F1264518D10024DBF3 /* NaikaiFont-Regular.ttf */,
 			);
 			path = "drink擇偶條件";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A8300E9264517980024DBF3 /* LaunchScreen.storyboard in Resources */,
+				9A8300F2264518D10024DBF3 /* NaikaiFont-Regular.ttf in Resources */,
 				9A8300E6264517980024DBF3 /* Assets.xcassets in Resources */,
 				9A8300E4264517960024DBF3 /* Main.storyboard in Resources */,
 			);
